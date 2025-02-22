@@ -2,5 +2,3 @@ streamlit
 pillow
 google-generativeai
 
-
-pip install -r requirements.txt
